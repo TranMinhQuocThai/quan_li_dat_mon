@@ -2,7 +2,7 @@ CHƯƠNG III CÀI ĐẶT THỰC NGHIỆM VÀ KẾT QUẢ <br>
 1/Giao diện đăng nhập
 ![image](https://github.com/user-attachments/assets/58ed2d8c-ef1b-44ca-8d10-b0ea64f1b869)
 
-2/ Giao diện quản lý thống kê của nhà hàng
+2/ Giao diện quản lý thống kê của nhà hàng<br>
 	Giao diện thống kê món ăn theo ngày/tháng/năm
 
 ![image](https://github.com/user-attachments/assets/baa22b57-5cd1-4ad6-a873-4491bbbe8617)
@@ -20,7 +20,7 @@ CHƯƠNG III CÀI ĐẶT THỰC NGHIỆM VÀ KẾT QUẢ <br>
 	Giao diện thống kê món ăn theo năm và một món ăn bất kì 
 ![image](https://github.com/user-attachments/assets/097bc769-19b7-414c-af4f-df6acfd558dd)
 
-3. Giao diện quản lý loại món ăn trong quy mô nhà hàng
+3. Giao diện quản lý loại món ăn trong quy mô nhà hàng<br>
 	Giao diện về ID và cả danh sách món ăn
 
 ![image](https://github.com/user-attachments/assets/fcc52eb3-556a-433c-90b5-609e0e529287)
@@ -51,7 +51,7 @@ Giao diện cập nhật lại món trong nhà hàng
 Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 ![image](https://github.com/user-attachments/assets/95d17f32-5ab7-4963-81d5-cd17be16df72)
 
-4/ Giao diện quản lý món ăn trong nhà hàng
+4/ Giao diện quản lý món ăn trong nhà hàng<br>
 	Giao diện thông tin món ăn theo giá giảm dần
 
 ![image](https://github.com/user-attachments/assets/f46925c0-f38d-4cd1-9cc4-ca7a8445efbf)
@@ -67,7 +67,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 	Giao diện cập nhật món ăn đã được thêm vào trong nhà hàng
 ![image](https://github.com/user-attachments/assets/fd90ef7f-6094-49f1-9914-8a27b94cf98f)
 
-5/ Giao diện quản lý nguyên liệu trong nhà hàng
+5/ Giao diện quản lý nguyên liệu trong nhà hàng<br>
 	Giao diện số lượng nguyên liệu giảm dần trong nhà hàng
 
 ![image](https://github.com/user-attachments/assets/38781914-21c1-4a69-bb16-cfc800af2156)
@@ -87,7 +87,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 ![image](https://github.com/user-attachments/assets/d4887ba5-b44d-4f6a-92d4-5114d713c41d)
 
 
-6/ Giao diện quản lý công thức trong nhà hàng 
+6/ Giao diện quản lý công thức trong nhà hàng <br>
 	 Giao diện danh sách công thức các món ăn trong nhà hàng.
 ![image](https://github.com/user-attachments/assets/c5a61f1a-a283-4501-a26f-751ad51eabbe)
 
@@ -108,7 +108,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 ![image](https://github.com/user-attachments/assets/7bae3f88-c06f-48ac-88ed-cb3bf6c46061)
 
 
-7/ Giao diện quản lý thông tin đơn hàng
+7/ Giao diện quản lý thông tin đơn hàng <br>
 	 Giao diện đơn hàng đã thanh toán.
 ![image](https://github.com/user-attachments/assets/b7e581f5-a89b-4602-8da4-6d53b27c6aca)
 
@@ -117,7 +117,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 
 
 
-8/ Giao diện quản lý thông tin nhân viên trong nhà hàng
+8/ Giao diện quản lý thông tin nhân viên trong nhà hàng<br>
 	 Giao diện danh sách thông tin nhân viên trong nhà hàng.
 ![image](https://github.com/user-attachments/assets/5a119ac6-18c2-4ffd-be2d-4acb2e7d5fc6)
 
@@ -130,7 +130,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 
 
 
-9/ Giao diện quản lý thông tin khách hàng 
+9/ Giao diện quản lý thông tin khách hàng <br>
 	 Giao diện danh sách thông tin khách hàng.
 ![image](https://github.com/user-attachments/assets/47c2566c-1ca9-4e6d-973e-63f7a55050a9)
 
@@ -139,30 +139,31 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 ![image](https://github.com/user-attachments/assets/57b6fdf4-3041-4659-a1b8-96775c701b3b)
 
 
-10/ Giao diện Reset Password 
+10/ Giao diện Reset Password <br>
 
 
 	 Giao diện chỉnh sửa thông tin nhân viên.
 ![image](https://github.com/user-attachments/assets/358ed8ba-6aa9-482b-86a9-c8e1e59d694c)
-11/ Phần người dùng
-		1/ Giao diện người dùng ở thiết bị màn hình lớn
+11/ Phần người dùng <br>
+		1/ Giao diện người dùng ở thiết bị màn hình lớn <br>
 	Giao diện phần Header
 ![image](https://github.com/user-attachments/assets/4802fc13-ec9e-4ea4-8e63-ff3046d3de20)
 
 	Giao diện về phần thông tin của nhà hàng.
 ![image](https://github.com/user-attachments/assets/534b0dfe-507f-46ff-b5bc-e95048f08ecb)
-![image](https://github.com/user-attachments/assets/48d24001-5c52-43fd-bb7a-a5beb2de10ed)
 
+![image](https://github.com/user-attachments/assets/7696d7d2-e7b0-4677-964c-3d357da971b3)
 
 
 
 
 
 	Giao diện về thực đơn của nhà hàng
-![image](https://github.com/user-attachments/assets/7696d7d2-e7b0-4677-964c-3d357da971b3)
+![image](https://github.com/user-attachments/assets/48d24001-5c52-43fd-bb7a-a5beb2de10ed)
+
 
 	Giao diện về thực đơn ( theo loại món) của nhà hàng
-![image](https://github.com/user-attachments/assets/80f9000a-97d4-4fef-b6fc-325a299c7509)
+![image](https://github.com/user-attachments/assets/390f045d-ba54-4b80-8492-e31a0f4ed3d2)
 
 
 
@@ -170,7 +171,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 
 
 	Giao diện về giỏ hàng 
-![image](https://github.com/user-attachments/assets/efbe8547-6b6f-48d9-9e77-8e6de0a5f646)
+![image](https://github.com/user-attachments/assets/12f1749f-9c8a-4898-b2dc-f09fd3ad87e6)
 
 	Giao diện về bảng xác nhận đặt món.
 ![image](https://github.com/user-attachments/assets/50964bf2-981b-4291-89ae-6a3497a7aea5)
@@ -178,7 +179,7 @@ Giao diện cập nhật lại món đã được thêm vào trong nhà hàng
 	Giao diện phần Footer
 ![image](https://github.com/user-attachments/assets/078d7797-9181-4cc4-9e24-b259eccd233d)
 
-2/ Giao diện người dùng ở thiết bị màn hình nhỏ
+2/ Giao diện người dùng ở thiết bị màn hình nhỏ<br>
 	Giao diện phần Header 
 ![image](https://github.com/user-attachments/assets/40adfd79-037d-4a42-a015-066973db536b)
 
